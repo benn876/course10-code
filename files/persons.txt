@@ -1,0 +1,3 @@
+Mihai|44|manager
+George|22|carpenter
+John|31|programmer

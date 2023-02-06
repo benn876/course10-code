@@ -1,0 +1,3 @@
+Mihai has age 44 and position manager
+George has age 22 and position carpenter
+John has age 31 and position programmer
